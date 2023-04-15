@@ -18,3 +18,4 @@ public class Loopchecker implements Checker {
         return false;
     }
 }
+
