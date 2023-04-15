@@ -9,3 +9,4 @@ public class RegexChecker implements Checker {
         return e.matches("^\\w+$");
     }
 }
+

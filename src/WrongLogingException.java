@@ -3,3 +3,4 @@ public class WrongLogingException extends Exception{
         super (message);
     }
 }
+
